@@ -1,7 +1,5 @@
 # Struct of Patient and Doctor with C++
 
-Foobar is a Python library for dealing with word pluralization.
-
 ## What is a structure?
 
 A structure is a user-defined data type in C/C++. A structure creates a data type that can be used to group items of possibly different types into a single type.
