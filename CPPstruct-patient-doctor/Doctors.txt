@@ -1,0 +1,37 @@
+Doctors: 
+
+Doctor Name: Ali Kemal
+Doctor Office Number: 100
+Doctor Specialty: kbb 
+Doctor Age: 44
+
+Doctor Name: Kemal
+Doctor Office Number: 101
+Doctor Specialty: kbb 
+Doctor Age: 43
+
+Doctor Name: Mehmet 
+Doctor Office Number: 102
+Doctor Specialty: kalp 
+Doctor Age: 71
+
+Doctor Name: Sabri 
+Doctor Office Number: 103
+Doctor Specialty: Nöroloji 
+Doctor Age: 45
+
+Doctor Name: Mustafa 
+Doctor Office Number: 104
+Doctor Specialty: Dahiliye 
+Doctor Age: 46
+
+Doctor Name: Musa 
+Doctor Office Number: 105
+Doctor Specialty: Dahiliye 
+Doctor Age: 35
+
+Doctor Name: Merve 
+Doctor Office Number: 106
+Doctor Specialty: kbb 
+Doctor Age: 29
+

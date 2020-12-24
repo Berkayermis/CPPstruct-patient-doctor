@@ -1,0 +1,14 @@
+Patients: 
+
+Patient Name: Muhammed Ermiþ
+Patient ID: 201
+Patient's Number of Doctor: 1
+
+Patient Name: Berkay Ermiþ
+Patient ID: 202
+Patient's Number of Doctor: 2
+
+Patient Name: Osman
+Patient ID: 203
+Patient's Number of Doctor: 1
+

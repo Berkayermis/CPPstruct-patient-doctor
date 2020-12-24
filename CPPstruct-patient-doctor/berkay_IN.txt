@@ -1,0 +1,39 @@
+Doctors:
+Ali Kemal
+100 
+kbb 
+44
+Kemal
+101 
+kbb 
+43
+Mehmet 
+102 
+kalp 
+71
+Sabri 
+103
+Nöroloji 
+45
+Mustafa 
+104 
+Dahiliye 
+46
+Musa 
+105 
+Dahiliye 
+35
+Merve 
+106 
+kbb 
+29
+Patients:
+Muhammed Ermiþ
+201
+1
+Berkay Ermiþ
+202
+2
+Osman
+203
+1
