@@ -6,7 +6,6 @@ A structure is a user-defined data type in C/C++. A structure creates a data typ
 
 ## Problem
 
-```python
 Define a patient structure to keep the name, a constant ID, and the doctor(s) treating the
 patient. Notice that you need to keep the number of doctors for each patient. Define the doctor
 as another structure where you keep name, specialty, office number and age.
@@ -34,7 +33,7 @@ for patients.
 Inside the main,
 1) call the function, which reads the values from the text file.
 2) call and test the other functions defined above.
-```
+
 
 ## Resource
 [struct](https://www.geeksforgeeks.org/structures-in-cpp/)
